@@ -202,4 +202,4 @@ current = graph.get_current_trust("agent-1")
 
 ## License
 
-AGPL-3.0 License - see [LICENSE](LICENSE) for details.
+Apache-2.0 License - see [LICENSE](LICENSE) for details.
